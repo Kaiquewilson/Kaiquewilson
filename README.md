@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaique Wilson
-- 👀 I’m interested in stunding code
+- 👀 I’m interested in estudar codigos 
 - i 'm from Brazil
-- (p y t h o n)
+- por enquanto a linguagem de programação que eu uso é o python
 
 <!---
 Kaiquewilson/Kaiquewilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
