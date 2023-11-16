@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaique Wilson
 - 👀 I’m interested in stunding code
 - i 'm from Brazil
-- (python)
+- (p y t h o n)
 
 <!---
 Kaiquewilson/Kaiquewilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
