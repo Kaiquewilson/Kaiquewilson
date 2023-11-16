@@ -2,6 +2,8 @@
 - 👀 I’m interested in estudar codigos 
 - i 'm from Brazil
 - por enquanto a linguagem de programação que eu uso é o python
+- estudante
+  
 
 <!---
 Kaiquewilson/Kaiquewilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
