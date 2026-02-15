@@ -1,4 +1,4 @@
-Seja-bem vindo ao meu perfil, me chmo Kaique Wilson! 👋
+Seja-bem vindo ao meu perfil, me chamo Kaique Wilson! 👋
 
 * Cursando Ciência da Computação
 * Estou estudando Python
